@@ -1,6 +1,6 @@
 require './app'
 
-run Sinatra::application
+run Sinatra::Application
 
 #require 'application'
 #use Example::Application

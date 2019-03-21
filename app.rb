@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-    'Hello Sinatra'
+    'Hello Hello Hello...'
 end
